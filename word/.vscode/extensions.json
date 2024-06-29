@@ -1,0 +1,6 @@
+{
+  // 协同开发, 请务必安装
+  "recommendations": [
+    "EditorConfig.EditorConfig", 
+  ]
+}
