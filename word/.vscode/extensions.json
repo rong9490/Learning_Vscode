@@ -1,6 +1,5 @@
 {
-  // 协同开发, 请务必安装
-  "recommendations": [
-    "EditorConfig.EditorConfig", 
-  ]
+	// 协同开发, 请务必安装
+	// code --list-extensions
+	"recommendations": ["EditorConfig.EditorConfig", "esbenp.prettier-vscode", "Gruntfuggly.todo-tree"]
 }
